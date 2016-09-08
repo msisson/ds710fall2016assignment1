@@ -1,8 +1,22 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Mark Sisson, Hello Whirled!
+
 2. Why are you interested in Data Science?
+As a VP of Software Development in the financial sector, I see tremendous product (and career advancing!) opportunities using Data Science.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I've been in software development for 30 years as a developer, DBA, and architect mostly in Microsoft technologies.  I hold several .Net and SQLServer certifications. Having been in management for a while I'm not hands on every day but I code as a hobby all the time.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I aced my stats course in college but that's quite a while ago.  This is an area I'll need to catch up in during my master's program.
+
 5.  Do you have other experience with R or Python?
+Nope!
+
 6.  What do you hope to learn in this class?
+Why these languages are really the go-to languages for Data Science and why I would use them over, say, C#.  I've learned many languages in my career so I'll have somethign to compare them against.
+(Javascript, VB, C#, VB.Net, Java, Delphi, TSQL, etc.)
+
 7.  Is there anything else you would like to share with us?
+I'm so glad football's back, it's been a long summer!
